@@ -1,1 +1,1 @@
-file2 com1
+file1 com2
